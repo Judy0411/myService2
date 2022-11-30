@@ -42,7 +42,7 @@ function App() {
             </Container>
          </Navbar>
          <div className="App">
-            <h1>Hello! I'm Yeonsoo Seo</h1>
+            <h1>Hello! I'm yeonsoo Seo.</h1>
             <p>Look at the Beautiful Pictures.<br/> Click Images ☺️</p>
             <Lightbox images={images} />
          </div>
